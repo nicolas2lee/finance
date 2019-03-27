@@ -1,0 +1,6 @@
+#intellig config
+*.iml
+*.idea
+
+#build files
+**/target
